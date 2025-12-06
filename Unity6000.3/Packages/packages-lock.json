@@ -30,7 +30,7 @@
       "dependencies": {}
     },
     "com.unity.inputsystem": {
-      "version": "1.15.0",
+      "version": "1.16.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -137,6 +137,14 @@
         "com.unity.mathematics": "1.2.1"
       },
       "url": "https://registry.npmjs.com"
+    },
+    "jp.keijiro.klak.ndi": {
+      "version": "file:../../../KlakNDI/Packages/jp.keijiro.klak.ndi",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.modules.screencapture": "1.0.0"
+      }
     },
     "jp.keijiro.klak.spout": {
       "version": "file:../../../KlakSpout/Packages/jp.keijiro.klak.spout",
