@@ -16,6 +16,14 @@
       },
       "url": "https://registry.npmjs.com"
     },
+    "jp.keijiro.klak.ndi": {
+      "version": "file:../../../KlakNDI/Packages/jp.keijiro.klak.ndi",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.modules.screencapture": "1.0.0"
+      }
+    },
     "jp.keijiro.klak.spout": {
       "version": "file:../../../KlakSpout/Packages/jp.keijiro.klak.spout",
       "depth": 0,
