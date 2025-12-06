@@ -17,7 +17,7 @@
       "url": "https://registry.npmjs.com"
     },
     "jp.keijiro.klak.ndi": {
-      "version": "file:../../../KlakNDI/jp.keijiro.klak.ndi",
+      "version": "file:../../../KlakNDI/Packages/jp.keijiro.klak.ndi",
       "depth": 0,
       "source": "local",
       "dependencies": {
